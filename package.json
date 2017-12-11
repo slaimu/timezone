@@ -1,0 +1,14 @@
+{
+  "name": "timezone",
+  "version": "1.0.0",
+  "description": "get timezone for a given timezone string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "xiaowu zhang(https://github.com/slaimu)",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
